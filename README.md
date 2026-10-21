@@ -1,6 +1,6 @@
 # simple-shell
 
-A minimal Unix shell written in C, built for the Operating Systems course at FER (University of Zagreb). It covers the core of what a real shell does: parsing a command line, spawning child processes, running them in the foreground or background, and managing signals and terminal ownership.
+A minimal Unix shell written in C. It covers the core of what a real shell does: parsing a command line, spawning child processes, running them in the foreground or background, and managing signals and terminal ownership.
 
 ## Features
 
@@ -74,7 +74,3 @@ This is a teaching project, so it keeps things simple:
 ```
 ljuska.c    # the whole shell in a single source file
 ```
-
-## Context
-
-Written as Lab 2 ("Jednostavna ljuska") for the Operating Systems course at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
